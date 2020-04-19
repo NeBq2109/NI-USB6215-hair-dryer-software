@@ -5,4 +5,4 @@ designed with PyQT5, to control duty cycle and frequency of the signals. To crea
 library: https://nidaqmx-python.readthedocs.io/en/latest/ 
 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<iframe src="https://giphy.com/embed/j3i998HiDoZZRyqSHV" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/python-ni-j3i998HiDoZZRyqSHV">via GIPHY</a></p>

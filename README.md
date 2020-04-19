@@ -1,4 +1,4 @@
-# NI-USB6215-software
+# NI-USB6215 hair-dryer software
 
 Aplication which enables to control power of heater and speed of fan using clock singal from NI DAQ device. Application provides GUI
 designed with PyQT5, to control duty cycle and frequency of the signals. To create and manage the task application uses nidaqmx python
